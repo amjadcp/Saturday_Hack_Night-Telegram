@@ -26,9 +26,12 @@ Mr.Negativoli is a chorian Ammavan who can demotivate a person to atmost zero le
 This chorian ammavan is purely built with python
   
   here's is why:
-  1.Mr.Negativoli bot can be used to experiment how negativity affect human mentality.
-  2.It shows the importance of surrounding yourself with positive people.
-  3.On the otherhand,sometimes demotivations also motivate people to overcome the challenges that they face and showoff to the world their success.
+  
+  1.Mr.Negativoli bot can be used to experiment how negativity affect human mentality
+  
+  2.It shows the importance of surrounding yourself with positive people
+  
+  3.On the otherhand,sometimes demotivations also motivate people to overcome the challenges that they face and showoff to the world their success
   
 
 ### Built With
