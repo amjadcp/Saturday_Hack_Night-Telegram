@@ -2,8 +2,9 @@
 
   <p align="center">
     A chorian ammavan who lives in your telegram 
-    <br />
+  <br />
 
+  <img src="logo.png" alt="Logo">
 
 
 
