@@ -46,28 +46,30 @@ Here are some major frameworks that we used to built our project.
 ### Using the telegram bot
 
 1. <a href="https://t.me/MrNegativoliBot">Click here</a> to use 'Mr.Negativoli Bot'
+  
 2. or search 'Mr.Negativoli Bot'
+  
 3. Example messages 
  
 HELP
 -----
 
--add={negative message}   -> to add message   
+- add={negative message}   -> to add message   
 
--/negative               -> for random negativity
+- /negative               -> for random negativity
 
--/onfire                  -> Mr.Negativoli on FIRE !!!
+- /onfire                  -> Mr.Negativoli on FIRE !!!
 
--del={message}           -> to delete message
+- del={message}           -> to delete message
 
--/help                              -> help
+- /help                              -> help
 
 #Example
 ------
--add=you cant do that
+- add=you cant do that
 
 
 ## Contributers
-* [Amjad CP](https://github.com/amjadcp)
-* [Adil Ayyoob](https://github.com/Adilayyoob)
-* [Nidha shoukhath kp](https://github.com/nidhashoukhath)
+* [Amjad CP](https://github.com/amjadcp) [Bot deployment and handling]
+* [Adil Ayyoob](https://github.com/Adilayyoob) [Core design]
+* [Nidha shoukhath kp](https://github.com/nidhashoukhath) [Telegram Api, Readme design]
